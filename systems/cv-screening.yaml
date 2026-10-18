@@ -1,0 +1,9 @@
+name: CV Screening Assistant
+owner: HR
+purpose: Classer les candidatures entrantes
+domain: employment
+affects_natural_persons: true
+decision_role: recommends
+interacts_with_humans: false
+generates_synthetic_content: false
+uses_biometrics: false

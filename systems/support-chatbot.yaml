@@ -1,0 +1,9 @@
+name: Customer Support Chatbot
+owner: Customer Service
+purpose: Répondre aux questions clients sur les commandes
+domain: customer-service
+affects_natural_persons: false
+decision_role: informs
+interacts_with_humans: true
+generates_synthetic_content: true
+uses_biometrics: false
